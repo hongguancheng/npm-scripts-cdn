@@ -4,7 +4,7 @@
 ## Usage Examples
 添加下列配置到你的 package.json
 
-```json
+```js
 "scripts": {
   "cdn-upyun": "node build/cdn-upyun.js"
 },
